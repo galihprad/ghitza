@@ -20,6 +20,10 @@ h3{
 	color: #9e9e9e;
 }
 
+.tipis{
+	font-weight: 300;
+}
+
 .navbar{
 	width: 100%;
 	height: 80px;
@@ -100,6 +104,12 @@ h3{
 .home-tulisan .home-tulisan-btn{
 	font-weight: 300;
 	margin: 10px;
+}
+
+.video{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .about{
@@ -230,6 +240,10 @@ border-bottom: 2px solid #e0e0e0;
 	display: flex;
 	align-items: center;
 }
+.googleplay{
+	width: 200px;
+}
+
 .footer{
 	width: 100%;
 	height: 200px;
